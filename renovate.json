@@ -3,5 +3,5 @@
   "extends": [
     "config:recommended"
   ],
-  "enabled": false
+  "enabled": true
 }
