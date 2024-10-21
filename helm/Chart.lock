@@ -1,9 +1,9 @@
 dependencies:
 - name: opentelemetry-collector
   repository: https://open-telemetry.github.io/opentelemetry-helm-charts
-  version: 0.55.2
+  version: 0.108.0
 - name: solr
   repository: https://charts.bitnami.com/bitnami
   version: 9.1.3
-digest: sha256:3d37697e16224c88e9cddc31891d4dbc17dfa0177dd521efe3c63f987cbbad6f
-generated: "2024-07-16T11:09:16.302210768+02:00"
+digest: sha256:75de0e911da50e3b3558af4ee6e1fec21cfc23fbbadb639c7fee2064329a6793
+generated: "2024-10-17T14:04:24.46501799Z"
