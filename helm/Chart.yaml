@@ -9,6 +9,6 @@ dependencies:
     condition: open-telemetry-collector.enabled
     version: 0.55.2
   - name: solr
-    version: 9.1.3
+    version: 9.4.7
     repository: https://charts.bitnami.com/bitnami
     condition: solr.enabled
