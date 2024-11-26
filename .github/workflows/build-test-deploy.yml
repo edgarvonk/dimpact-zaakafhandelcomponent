@@ -42,7 +42,7 @@ jobs:
         with:
           paths-ignore: |-
             ^.*\.md$
-            ^publiccode\.yaml$
+            ^publiccode.yaml
 
   next-version:
     needs: [paths-ignore]
