@@ -10,8 +10,8 @@ publiccodeYmlVersion: "0.4"
 
 name: Dimpact Zaakafhandelcomponent (ZAC)
 url: "https://github.com/edgarvonk/dimpact-zaakafhandelcomponent"
-softwareVersion: "0.1.63"
-releaseDate: "2024-11-25"
+softwareVersion: "0.1.65"
+releaseDate: ""
 
 platforms:
 - web
@@ -31,7 +31,7 @@ softwareType: "standalone/web"
 description:
   en:
     localisedName: Dimpact Zaakafhandelcomponent (ZAC)
-    shortDescription: Edgar
+    shortDescription: "Edgar"
 
 legal:
   license: EUPL-1.2+
