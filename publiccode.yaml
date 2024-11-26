@@ -10,7 +10,7 @@ publiccodeYmlVersion: "0.4"
 
 name: Dimpact Zaakafhandelcomponent (ZAC)
 url: "https://github.com/edgarvonk/dimpact-zaakafhandelcomponent"
-softwareVersion: "0.1.82"
+softwareVersion: "0.1.83"
 releaseDate: ""
 
 platforms:
@@ -31,7 +31,9 @@ softwareType: "standalone/web"
 description:
   en:
     localisedName: Dimpact Zaakafhandelcomponent (ZAC)
-    shortDescription: "Edgar"
+    shortDescription: The zaakafhandelcomponent is an open-source, generic, workflow-based component for
+      managing 'zaken' in the context of zaakgericht werken, a Dutch approach to case management.
+      It is developed for Dimpact and used by Dutch municipalities.
 
 legal:
   license: EUPL-1.2+
